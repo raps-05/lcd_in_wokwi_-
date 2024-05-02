@@ -1,0 +1,10 @@
+Lcd integration with arduino
+Connections:
+Arduino        Lcd
+GND             VSS
+5V              VDD
+RS              12(PIN)
+RW              GND
+enable (E)      11
+D-4 to D-7      10,9,8,7
+Anode pin A      resistor
